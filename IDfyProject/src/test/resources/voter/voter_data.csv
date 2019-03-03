@@ -1,0 +1,11 @@
+type,taskId,groupId,data
+voter_ocr,Voter-ocr-1,Voter-Sanity-1,https://s3-ap-southeast-1.amazonaws.com/addressify-demo/demo/voter3.jpg
+voter_ocr,Voter-ocr-2,Voter-Sanity-1,https://s3-ap-southeast-1.amazonaws.com/addressify-demo/eve+api+images/voter/bh.jpg
+voter_ocr,Voter-ocr-3,Voter-Sanity-1,https://s3-ap-southeast-1.amazonaws.com/addressify-demo/eve+api+images/voter/id.jpg
+voter_ocr,Voter-ocr-4,Voter-Sanity-1,https://s3-ap-southeast-1.amazonaws.com/addressify-demo/eve+api+images/voter/479.jpg
+voter_ocr,Voter-ocr-5,Voter-Sanity-1,https://s3-ap-southeast-1.amazonaws.com/addressify-demo/eve+api+images/voter/gbg.png
+voter_ocr,Voter-ocr-6,Voter-Sanity-1,https://s3-ap-southeast-1.amazonaws.com/addressify-demo/eve+api+images/voter/vd1.jpg
+voter_ocr,Voter-ocr-7,Voter-Sanity-1,https://s3-ap-southeast-1.amazonaws.com/addressify-demo/eve+api+images/voter/7394.jpg
+voter_ocr,Voter-ocr-8,Voter-Sanity-1,https://s3-ap-southeast-1.amazonaws.com/addressify-demo/eve+api+images/voter/7843.jpg
+voter_ocr,Voter-ocr-9,Voter-Sanity-1,https://s3-ap-southeast-1.amazonaws.com/addressify-demo/eve+api+images/voter/9959-sonu.jpg
+voter_ocr,Voter-ocr-10,Voter-Sanity-1,https://s3-ap-southeast-1.amazonaws.com/addressify-demo/eve+api+images/voter/ashakiran.jpg

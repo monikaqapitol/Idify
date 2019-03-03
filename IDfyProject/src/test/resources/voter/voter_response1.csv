@@ -1,0 +1,2 @@
+completedAt,createdAt,groupId,requestId,address,age,ageAsOnYear,dateOfBirth,district,fathersName,gender,houseNumber,idNumber,nameOnCard,pincode,state,streetAddress,yearOfBirth,status,taskId,taskType
+2019-01-16T11:42:51+00:00,2019-01-16T11:42:47+00:00,Voter-Sanity-1,51f2325a-a6e2-41cf-8ec4-b9527e2ce249,,40,,12/6/1979,,Govindaraju,MALE,,ZUI5889498,Sunil Babu Prasad,,,,,completed,Voter-ocr-1,voter_ocr

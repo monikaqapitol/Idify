@@ -1,0 +1,11 @@
+type,taskId,groupId,data
+passport_ocr,Passport-ocr-1,Passport-Sanity-1,https://storage.googleapis.com/idfy-tests/Passport/a11c4c1be063-passport.jpg
+passport_ocr,Passport-ocr-2,Passport-Sanity-1,https://storage.googleapis.com/idfy-tests/Passport/passport1.jpg
+passport_ocr,Passport-ocr-3,Passport-Sanity-1,https://storage.googleapis.com/idfy-tests/Passport/new-doc-3-2.jpg
+passport_ocr,Passport-ocr-4,Passport-Sanity-1,https://storage.googleapis.com/idfy-tests/Passport/new-doc-3-2.jpg
+passport_ocr,Passport-ocr-5,Passport-Sanity-1,https://storage.googleapis.com/idfy-tests/Passport/paasprt-date.jpg
+passport_ocr,Passport-ocr-6,Passport-Sanity-1,https://storage.googleapis.com/idfy-tests/Passport/scan-015.jpg
+passport_ocr,Passport-ocr-7,Passport-Sanity-1,https://storage.googleapis.com/idfy-tests/Passport/passport (24).jpg
+passport_ocr,Passport-ocr-8,Passport-Sanity-1,https://storage.googleapis.com/idfy-tests/Passport/passport (23).jpg
+passport_ocr,Passport-ocr-9,Passport-Sanity-1,https://storage.googleapis.com/idfy-tests/Passport/img-20150915-wa0017.jpg
+passport_ocr,Passport-ocr-10,Passport-Sanity-1,https://storage.googleapis.com/idfy-tests/Passport/kedar-passport-01.jpg

@@ -1,0 +1,4 @@
+type,taskId,groupId,data
+voter_ocr,Voter-ocr-1,Voter-Sanity-070219,https://s3-ap-southeast-1.amazonaws.com/addressify-demo/demo/voter3.jpg
+voter_ocr,Voter-ocr-2,Voter-Sanity-070219,https://s3-ap-southeast-1.amazonaws.com/addressify-demo/eve+api+images/voter/1.png
+voter_ocr,Voter-ocr-3,Voter-Sanity-070219,https://s3-ap-southeast-1.amazonaws.com/addressify-demo/eve+api+images/voter/votercard.jpg

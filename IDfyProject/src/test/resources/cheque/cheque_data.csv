@@ -1,0 +1,6 @@
+type,taskId,groupId,data
+cheque_ocr,Cheque-ocr-1,Cheque-Sanity-1,https://s3-ap-southeast-1.amazonaws.com/addressify-demo/eve+api+images/Cheque/507970_Bank.png
+cheque_ocr,Cheque-ocr-2,Cheque-Sanity-1,https://s3-ap-southeast-1.amazonaws.com/addressify-demo/eve+api+images/Cheque/Test/cheque17.png
+cheque_ocr,Cheque-ocr-3,Cheque-Sanity-1,https://s3-ap-southeast-1.amazonaws.com/addressify-demo/eve+api+images/Cheque/Test/cheque13.png
+cheque_ocr,Cheque-ocr-4,Cheque-Sanity-1,https://s3-ap-southeast-1.amazonaws.com/addressify-demo/eve+api+images/Cheque/Test/cheque2.png
+cheque_ocr,Cheque-ocr-5,Cheque-Sanity-1,https://s3-ap-southeast-1.amazonaws.com/addressify-demo/eve+api+images/Cheque/Test/cheque28.png

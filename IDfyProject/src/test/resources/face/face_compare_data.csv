@@ -1,0 +1,11 @@
+type,taskId,groupId,data
+face_compare,Face-Compare-1,Facce-Sanity-1,"https://storage.googleapis.com/idfy-tests/500kb/imageedit_19_2906558737.jpg,https://storage.googleapis.com/idfy-tests/500kb/imageedit_5_9156000528.jpg"
+face_compare,Face-Compare-2,Facce-Sanity-1,"https://storage.googleapis.com/idfy-tests/500kb/imageedit_19_2906558737.jpg,https://storage.googleapis.com/idfy-tests/500kb/imageedit_5_9156000528.jpg"
+face_compare,Face-Compare-3,Facce-Sanity-1,"https://storage.googleapis.com/idfy-tests/500kb/imageedit_19_2906558737.jpg,https://storage.googleapis.com/idfy-tests/500kb/imageedit_5_9156000528.jpg"
+face_compare,Face-Compare-4,Facce-Sanity-1,"https://storage.googleapis.com/idfy-tests/500kb/imageedit_19_2906558737.jpg,https://storage.googleapis.com/idfy-tests/500kb/imageedit_5_9156000528.jpg"
+face_compare,Face-Compare-5,Facce-Sanity-1,"https://storage.googleapis.com/idfy-tests/500kb/imageedit_19_2906558737.jpg,https://storage.googleapis.com/idfy-tests/500kb/imageedit_5_9156000528.jpg"
+face_compare,Face-Compare-6,Facce-Sanity-1,"https://storage.googleapis.com/idfy-tests/500kb/imageedit_19_2906558737.jpg,https://storage.googleapis.com/idfy-tests/500kb/imageedit_5_9156000528.jpg"
+face_compare,Face-Compare-7,Facce-Sanity-1,"https://storage.googleapis.com/idfy-tests/500kb/imageedit_19_2906558737.jpg,https://storage.googleapis.com/idfy-tests/500kb/imageedit_5_9156000528.jpg"
+face_compare,Face-Compare-8,Facce-Sanity-1,"https://storage.googleapis.com/idfy-tests/500kb/imageedit_19_2906558737.jpg,https://storage.googleapis.com/idfy-tests/500kb/imageedit_5_9156000528.jpg"
+face_compare,Face-Compare-9,Facce-Sanity-1,"https://storage.googleapis.com/idfy-tests/500kb/imageedit_19_2906558737.jpg,https://storage.googleapis.com/idfy-tests/500kb/imageedit_5_9156000528.jpg"
+face_compare,Face-Compare-10,Facce-Sanity-1,"https://storage.googleapis.com/idfy-tests/500kb/imageedit_19_2906558737.jpg,https://storage.googleapis.com/idfy-tests/500kb/imageedit_5_9156000528.jpg"

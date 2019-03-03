@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="IDFY API Calls">
+	<parameter name="URL" value="https://api.idfy.com" />
+	<parameter name="apiKey"
+		value="efcb97db-c907-4bfc-a2e2-2ed23a92fc26" />
+	
+	<test thread-count="85" name="Async Call Test">
+		<classes>
+			<class name="com.idfy.qa.test.Pantest" />
+		</classes>
+	</test>
+</suite> 

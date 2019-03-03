@@ -1,0 +1,11 @@
+completedAt,createdAt,groupId,requestId,face1Quality,face1Status,face2Quality,face2Status,matchScore,matchStatus,reviewRequired,status,taskId,taskType,tat
+2019-01-16T11:08:35+00:00,2019-01-16T11:08:31+00:00,Facce-Sanity-1,9c6cc442-44c4-421c-a5ce-dca07117ec10,good,face_detected,good,face_detected,93.07007,true,false,completed,Face-Compare-1,face_compare,4.89
+2019-01-16T11:08:38+00:00,2019-01-16T11:08:34+00:00,Facce-Sanity-1,8d625f3b-f635-4dd7-a9fa-4f649ff35801,good,face_detected,good,face_detected,93.07007,true,false,completed,Face-Compare-2,face_compare,4.24
+2019-01-16T11:08:41+00:00,2019-01-16T11:08:36+00:00,Facce-Sanity-1,b793d72b-c462-4d5a-8780-2f6ed82fe97f,good,face_detected,good,face_detected,93.07007,true,false,completed,Face-Compare-3,face_compare,4.07
+2019-01-16T11:08:43+00:00,2019-01-16T11:08:39+00:00,Facce-Sanity-1,a5ea14a2-8883-4a07-9de8-98ac3d85395c,good,face_detected,good,face_detected,93.07007,true,false,completed,Face-Compare-4,face_compare,3.9
+2019-01-16T11:08:46+00:00,2019-01-16T11:08:43+00:00,Facce-Sanity-1,5aa08165-1294-4422-b151-bf39bfdfffb5,good,face_detected,good,face_detected,93.07007,true,false,completed,Face-Compare-5,face_compare,3.15
+2019-01-16T11:08:48+00:00,2019-01-16T11:08:46+00:00,Facce-Sanity-1,18ac5ed7-83be-4d22-a113-d3e11a81f1b8,good,face_detected,good,face_detected,93.07007,true,false,completed,Face-Compare-6,face_compare,2.83
+2019-01-16T11:08:53+00:00,2019-01-16T11:08:49+00:00,Facce-Sanity-1,494e41b2-8cb8-4d52-b909-880e2d9d5c83,good,face_detected,good,face_detected,93.07007,true,false,completed,Face-Compare-7,face_compare,4.13
+2019-01-16T11:08:55+00:00,2019-01-16T11:08:51+00:00,Facce-Sanity-1,89bf6407-d13f-43d7-8caa-d29a125ef329,good,face_detected,good,face_detected,93.07007,true,false,completed,Face-Compare-8,face_compare,3.22
+2019-01-16T11:08:57+00:00,2019-01-16T11:08:54+00:00,Facce-Sanity-1,82d49d61-db23-418b-b3fb-a0c665454cc6,good,face_detected,good,face_detected,93.07007,true,false,completed,Face-Compare-9,face_compare,3.01
+2019-01-16T11:09:01+00:00,2019-01-16T11:08:58+00:00,Facce-Sanity-1,7a9def0f-971d-4316-91d3-71446c64c5e3,good,face_detected,good,face_detected,93.07007,true,false,completed,Face-Compare-10,face_compare,3.09

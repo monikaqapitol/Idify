@@ -1,0 +1,9 @@
+type,task_id,group_id,gstin
+gst_verification,Gst-verification-1,Gst-Sanity-1,29AACCF7496A1ZH
+gst_verification,Gst-verification-2,Gst-Sanity-1,27AACCM3201E1Z3
+gst_verification,Gst-verification-3,Gst-Sanity-1,07AABCC4785E1ZP
+gst_verification,Gst-verification-4,Gst-Sanity-1,06AAFCB9545D1ZQ
+gst_verification,Gst-verification-5,Gst-Sanity-1,06AADCB2533M1ZR
+gst_verification,Gst-verification-6,Gst-Sanity-1,27AABCT3784C1ZD
+gst_verification,Gst-verification-7,Gst-Sanity-1,07AAICM4656P1ZR
+gst_verification,Gst-verification-8,Gst-Sanity-1,29AAFCB7707D1ZQ

@@ -1,0 +1,11 @@
+type,taskId,groupId,data,consent
+aadhaar_mask,Aadhar-masking-1,Aadhar-Sanity-2,https://s3-ap-southeast-1.amazonaws.com/idfy-api-staging/temp_xerox_copy/01.jpg,yes
+aadhaar_mask,Aadhar-masking-2,Aadhar-Sanity-2,https://s3-ap-southeast-1.amazonaws.com/idfy-api-staging/temp_xerox_copy/106.PNG,yes
+aadhaar_mask,Aadhar-masking-3,Aadhar-Sanity-2,https://s3-ap-southeast-1.amazonaws.com/idfy-api-staging/temp_xerox_copy/120.PNG,yes
+aadhaar_mask,Aadhar-masking-4,Aadhar-Sanity-2,https://s3-ap-southeast-1.amazonaws.com/idfy-api-staging/temp_xerox_copy/22.jpg,yes
+aadhaar_mask,Aadhar-masking-5,Aadhar-Sanity-2,https://s3-ap-southeast-1.amazonaws.com/idfy-api-staging/temp_xerox_copy/38.jpg,yes
+aadhaar_mask,Aadhar-masking-6,Aadhar-Sanity-2,https://s3-ap-southeast-1.amazonaws.com/idfy-api-staging/temp_xerox_copy/54.jpg,yes
+aadhaar_mask,Aadhar-masking-7,Aadhar-Sanity-2,https://s3-ap-southeast-1.amazonaws.com/idfy-api-staging/temp_xerox_copy/69.png,yes
+aadhaar_mask,Aadhar-masking-8,Aadhar-Sanity-2,https://s3-ap-southeast-1.amazonaws.com/idfy-api-staging/temp_xerox_copy/85.png,yes
+aadhaar_mask,Aadhar-masking-9,Aadhar-Sanity-2,https://s3-ap-southeast-1.amazonaws.com/idfy-api-staging/temp_xerox_copy/02.jpg,yes
+aadhaar_mask,Aadhar-masking-10,Aadhar-Sanity-2,https://s3-ap-southeast-1.amazonaws.com/idfy-api-staging/temp_xerox_copy/107.PNG,yes

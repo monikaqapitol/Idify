@@ -1,0 +1,11 @@
+type,taskId,groupId,data
+face_validation,Face-Validation-1,Facce-Sanity-2,https://storage.googleapis.com/idfy-tests/500kb/imageedit_19_2906558737.jpg
+face_validation,Face-Validation-2,Facce-Sanity-2,https://storage.googleapis.com/idfy-tests/500kb/imageedit_5_9156000528.jpg
+face_validation,Face-Validation-3,Facce-Sanity-2,https://storage.googleapis.com/idfy-tests/500kb/imageedit_19_2906558737.jpg
+face_validation,Face-Validation-4,Facce-Sanity-2,https://storage.googleapis.com/idfy-tests/500kb/imageedit_5_9156000528.jpg
+face_validation,Face-Validation-5,Facce-Sanity-2,https://storage.googleapis.com/idfy-tests/500kb/imageedit_19_2906558737.jpg
+face_validation,Face-Validation-6,Facce-Sanity-2,https://storage.googleapis.com/idfy-tests/500kb/imageedit_5_9156000528.jpg
+face_validation,Face-Validation-7,Facce-Sanity-2,https://storage.googleapis.com/idfy-tests/500kb/imageedit_19_2906558737.jpg
+face_validation,Face-Validation-8,Facce-Sanity-2,https://storage.googleapis.com/idfy-tests/500kb/imageedit_5_9156000528.jpg
+face_validation,Face-Validation-9,Facce-Sanity-2,https://storage.googleapis.com/idfy-tests/500kb/imageedit_19_2906558737.jpg
+face_validation,Face-Validation-10,Facce-Sanity-2,https://storage.googleapis.com/idfy-tests/500kb/imageedit_5_9156000528.jpg

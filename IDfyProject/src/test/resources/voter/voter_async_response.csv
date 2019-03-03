@@ -1,0 +1,136 @@
+completedAt,createdAt,groupId,address,age,ageAsOnYear,dateOnCard,districtName,fathersName,gender,houseNumber,nameOnCard,pincode,rawText,stateName,streetAddress,voterNumber,yearOfBirth,requestId,status,taskId,tat
+2019-01-25T11:49:00+05:30,2019-01-25T11:48:56+05:30,Voter-Sanity-1,,40,,1979-12-06,,Govindaraju,MALE,,Sunil Babu Prasad,,"3
+'
+ELECTION COMMISSION OF INDIA
+IDENTITY CARD
+: ZUI5889498
+Elector's Name Sunil Babu Prasad
+Father's Name Govindaraju
+on / Sexad
+Male
+ODO/Date of Birth:06/12/1979
+",,,ZUI5889498,,a0b769bc-8332-412a-b8bf-48e6e0a00e69,completed,Voter-ocr-1,4.08
+2019-01-25T11:49:01+05:30,2019-01-25T11:48:59+05:30,Voter-Sanity-1,,48,,1971-07-2,,Lakshmana Rao S,,,abeemashena,,"ELECTION COMMISSION OF INDIA
+IDENTITY CARD
+: XRR6556799
+K1-3508028
+Elector's Nama abeemashena
+: Father's Name : Lakshmana Rao S
+aDate of Birth : 2207/1971
+",,,XRR6556799,,4c2d691b-448a-430d-8c9f-c60f9c8d4d35,completed,Voter-ocr-2,2.497
+2019-01-25T11:49:05+05:30,2019-01-25T11:49:02+05:30,Voter-Sanity-1,"715, BLOCK-F2, SANGAM VIHAR DELHI",30,2014,,DELHI,RAMASHRAY,MALE,715,KANTI JHA,,"Duplicate
+ELECTION COMMISSION OF INDIA
+IDENTITY CARD
+CXY1122241
+Elecior's Name:
+KANTI JHA
+RAMASHRAY JHA
+Father's Name
+x Male
+30 Years
+Age as an 1.1.2014
+CXY1122241
+Address
+715, BLOCK-F2, SANGAM VIHAR
+DELHI
+Date 26/03/2014
+Facsimile Signature of the Electoral
+Registration Officer for 49-SANGAM
+VIHAR Assembly Constituency
+in case of change in adaress menion ths cad
+number in te reinvent Form for inckng yourne
+card with e sare bw
+4rtoo
+",,", Block-F2, Sangam Vihar Delhi",CXY1122241,,e4e597d4-3d45-47f3-aef0-9db248771168,completed,Voter-ocr-3,3.616
+2019-01-25T11:49:10+05:30,2019-01-25T11:49:05+05:30,Voter-Sanity-1,,29,,1990-04-22,,Paramanand,FEMALE,,Dusiya Jil,425790,"ELECTION COMMISSION OF INDIA
+IDENTITY CARD
+UHH2746865
+GJO425790
+Electors Name :
+Dusiya Jil
+Husband's Name : Paramanand
+all / Female
+SoH ruliu / Date of Birth : 22/04/1990
+",Maharashtra,,UHH2746865,,2ac81e6d-21be-4c86-85c7-6a7d97088d5b,completed,Voter-ocr-4,5.286
+2019-01-25T11:49:12+05:30,2019-01-25T11:49:08+05:30,Voter-Sanity-1,"R-38, NAFIS ROAD, HARI MASJID, BATLA HOUSE JAMIA NAGAR DEL 2012 URS NAME MD HAIDAR",20,2012,,,ZAHEER HAIDAR,MALE,R-38,MD HAIDAR,,"NWD3060407
+ELECTION COMMISSION OF INDIA
+DENTITY CARD
+NWD3060407
+Address
+R-38, NAFIS ROAD, HARI MASJID,
+BATLA HOUSE JAMIA NAGAR
+DEL
+2012
+Electur's Name MD HAIDAR
+Facsimile Signature of the Eiectoral
+Registration Officer for 54-OKHEA
+Father's ame ZAHEER HAIDAR
+r Male
+1.1.2012 t
+Age as an 1.1.2012
+20 Years
+",,", Nafis Road, Hari Masjid, Batla House Jamia Nagar Del 2012 Urs Name Md Haidar",NWD3060407,,547f92f6-83cc-43c1-a013-bbd8efa2dbca,completed,Voter-ocr-5,4.215
+2019-01-25T11:49:15+05:30,2019-01-25T11:49:11+05:30,Voter-Sanity-1,,40,,1979-12-06,,Govindaraju,MALE,,Sunil Babu Prasad,,"3
+'
+ELECTION COMMISSION OF INDIA
+IDENTITY CARD
+: ZUI5889498
+Elector's Name Sunil Babu Prasad
+Father's Name Govindaraju
+on / Sexad
+Male
+ODO/Date of Birth:06/12/1979
+",,,ZUI5889498,,c0f2b3b1-c6be-4eca-a23b-2c4d413be942,completed,Voter-ocr-6,4.182
+2019-01-25T11:49:18+05:30,2019-01-25T11:49:14+05:30,Voter-Sanity-1,,34,,,,Najahath Selma,FEMALE,,Naziya Salma,,"ELECTION COMMISSION OF INDIA
+IDENTITY CARD
+YUZ1311844
+KA
+sort
+KA KA
+KARNATAKA
+Elector's Name Naziya Salma
+Mothers Name : Najahath Selma
+: e/Female
+t, omos/Date of Birth :XX0ou1985
+",,,YUZ1311844,1985,8c2ebce0-565c-4322-bf85-4e5c610d78af,completed,Voter-ocr-7,4.021
+2019-01-25T11:49:20+05:30,2019-01-25T11:49:17+05:30,Voter-Sanity-1,,24,,1995-02-03,,Mohammed Riyz Armed,MALE,,Mohammed Muzammil Ahmed,,"ELECTION COMMISSION OF INDIA
+DENTITY CARD
+TNH2809408
+KT 3795361
+Elector's Name Mohammed Muzammil Ahmed
+Father's Name Mohammed Riyz Armed
+don / Sexual/ Male
+/Date of Birth :03/02/1995
+",,,TNH2809408,,dd7765ba-dd3e-4219-a375-1e66d6ccf39b,completed,Voter-ocr-8,3.432
+2019-01-25T11:49:33+05:30,2019-01-25T11:49:20+05:30,Voter-Sanity-1,,20,2008,,,Ramchand,MALE,,Sonu,,"|ELECTION COMMISSION OF I
+IDENTITY CARD
+Elector's Namie
+:Sonu
+Father's Name
+Ramchand
+f Sex
+1.1.2008t 20
+Age as on I.1.2008
+H/ Male
+: 62
+62
+phalla: Sakatpur
+wn Sakatpur
+tn.Nauhajheel
+Mathura
+82-
+le Signature of
+oal Registration Officer
+82 Mant
+Mathura
+Date 21/10/2008
+",,,,,75413604-11b7-4720-b5c5-72504eba0e32,completed,Voter-ocr-9,13.717
+2019-01-25T11:49:26+05:30,2019-01-25T11:49:23+05:30,Voter-Sanity-1,,35,,1984-05-21,,C Cheluvaswamy,FEMALE,,Asha S,,"aloert
+ELECTION COMMISSION OF INDIA
+DENTITY CARD
+ZBG4908257
+Elector's Name Asha S
+Husband's Name: C Cheluvaswamy
+Oorl /Sex: sIF
+u bo /Date of Birth: 21/05/1984
+",,,ZBG4908257,,c968efc6-af25-4e3e-89b8-1faf0a2613ce,completed,Voter-ocr-10,3.226

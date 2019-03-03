@@ -1,0 +1,11 @@
+completedAt,createdAt,groupId,requestId,faceDetected,livenessStatus,status,taskId,taskType,tat
+2019-01-17T15:28:37+00:00,2019-01-17T15:28:32+00:00,Facce-Sanity-2,974bef6d-99fb-425c-88aa-625977454c6d,true,false,completed,Face-Validation-1,face_validation,4.94
+2019-01-17T15:28:40+00:00,2019-01-17T15:28:35+00:00,Facce-Sanity-2,fbf76c3e-48f7-45f8-90fc-08325a8d6c32,true,true,completed,Face-Validation-2,face_validation,5.18
+2019-01-17T15:28:42+00:00,2019-01-17T15:28:38+00:00,Facce-Sanity-2,100eb187-e77d-4c11-a1a7-975444425238,true,false,completed,Face-Validation-3,face_validation,3.97
+2019-01-17T15:28:44+00:00,2019-01-17T15:28:41+00:00,Facce-Sanity-2,0d752510-4225-43c7-a98c-8f5991c7537b,true,true,completed,Face-Validation-4,face_validation,3.1
+2019-01-17T15:28:48+00:00,2019-01-17T15:28:44+00:00,Facce-Sanity-2,d3c9f8b6-ec0d-4b99-b7af-583d9c2b775a,true,false,completed,Face-Validation-5,face_validation,4.32
+2019-01-17T15:28:50+00:00,2019-01-17T15:28:46+00:00,Facce-Sanity-2,eb922912-ca48-4569-9538-a4fafd9efb7d,true,true,completed,Face-Validation-6,face_validation,3.44
+2019-01-17T15:28:54+00:00,2019-01-17T15:28:49+00:00,Facce-Sanity-2,4705d6b3-816c-4c40-a9f8-2a35f9ec90aa,true,false,completed,Face-Validation-7,face_validation,4.03
+2019-01-17T15:28:55+00:00,2019-01-17T15:28:53+00:00,Facce-Sanity-2,332d8839-f5c2-45c3-8282-7755ea0d919d,true,true,completed,Face-Validation-8,face_validation,2.1
+2019-01-17T15:28:59+00:00,2019-01-17T15:28:55+00:00,Facce-Sanity-2,ee120eed-ae25-4e47-8608-e3c9deff914a,true,false,completed,Face-Validation-9,face_validation,3.96
+2019-01-17T15:29:01+00:00,2019-01-17T15:28:59+00:00,Facce-Sanity-2,90641e2a-d3ad-47c1-abd9-e1bbf18d223c,true,true,completed,Face-Validation-10,face_validation,2.23
